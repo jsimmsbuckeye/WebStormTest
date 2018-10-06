@@ -7,6 +7,41 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+#header{
+  color: #ffffff;
+  Background: #003366;
+}
+
+#footer{
+  color: #ffffff;
+  background: #222222;
+}
+#topbar{
+  padding: 1% 8%;
+}
+
+.logo{
+  width: 10%;
+}
+
+.jessepic{
+  width:100%;
+}
+
+#titlediv{
+  float:right;
+  position: relative;
+  transform: translateY(-5%);
+}
+
+.maincontainer{
+  padding: 2% 5%;
+}
+h1 {
+  font-size: 12vw;
+}
+
+
 
 html {
     color: #222;
@@ -14,9 +49,18 @@ html {
     line-height: 1.4;
 }
 
-body {
-  background-color:beige;
+h1 {
+  font-size: 1.5em !important;
 }
+
+body {
+  background-color:beige !important;
+}
+
+
+}
+
+
 
 /*
  * Remove text-shadow in selection highlight:
