@@ -24,10 +24,19 @@
   width: 10%;
 }
 
+#title{
+  text-align: center !important;
+}
+
 .jessepic{
   width:100%;
 }
 
+#JesseText.col-md-12{
+  background: green !important;
+  float:right;
+
+}
 #titlediv{
   float:right;
   position: relative;
